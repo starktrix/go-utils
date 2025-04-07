@@ -1,1 +1,1 @@
-# config-go
+# go-utils
